@@ -1,2 +1,2 @@
 # Calculadora
-Este proyecto
+Este proyecto consiste en un programa
